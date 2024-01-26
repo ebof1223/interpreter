@@ -8,6 +8,7 @@ import (
     "interpreter_go/token" 
 
 )
+
  const PROMPT = ">> "
 
 func Start (in io.Reader, out io.Writer) {  
